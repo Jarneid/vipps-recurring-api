@@ -135,6 +135,9 @@ You can create charges once the user's agreement is ACTIVE
 
 See [How do I check my customer's status?](#how-do-i-check-my-customers-status).
 
+### Can a charge be paid the same day it was created?"
+No, a charge needs to be created minimum two days before before it is due. However, in some specific use cases we approve a whitelist where the merchant is able to create a charge that is due the next day. Contact Vipps customer support or your KAM if this is something you want to discuss.
+
 ### A charge failed, but the customer did not receive any warning
 The customer may not have notifications turned on. We always send notifications to the user when a charge processing attempt is not successful, and the user gets a more detailed message when looking at the charge/agreement in the app.
 
